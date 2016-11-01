@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/MacPorts 2016_1) (preloaded format=pdflatex 2016.8.9)  1 NOV 2016 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/MacPorts 2016_1) (preloaded format=pdflatex 2016.8.9)  1 NOV 2016 17:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,72 +265,72 @@ LaTeX Info: Redefining \nameref on input line 9.
 \MPnumerator=\count107
 \makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks17
-)
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+) (./contact.tex)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
  (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
 
 
-Package natbib Warning: Citation `harris2016large' undefined on input line 60.
+Package natbib Warning: Citation `harris2016large' undefined on input line 61.
 
 [1
 
 {/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package natbib Warning: Citation `mower2015high' undefined on input line 61.
+Package natbib Warning: Citation `mower2015high' undefined on input line 62.
 
 
-Package natbib Warning: Citation `harris2015bosonic' undefined on input line 62
+Package natbib Warning: Citation `harris2015bosonic' undefined on input line 63
 .
 
 
-Package natbib Warning: Citation `lahini2015quantum' undefined on input line 63
+Package natbib Warning: Citation `lahini2015quantum' undefined on input line 64
 .
 
 
 Package natbib Warning: Citation `lee2014entanglement' undefined on input line 
-64.
+65.
 
 
 Package natbib Warning: Citation `notaros2016tunable' undefined on input line 7
-0.
+1.
 
 
-Package natbib Warning: Citation `lee2016high' undefined on input line 71.
+Package natbib Warning: Citation `lee2016high' undefined on input line 72.
 
 
 Package natbib Warning: Citation `harris2016controlling' undefined on input lin
-e 72.
+e 73.
 
 
-Package natbib Warning: Citation `mower2015quantum' undefined on input line 73.
+Package natbib Warning: Citation `mower2015quantum' undefined on input line 74.
 
 
 
-Package natbib Warning: Citation `harris2015quantum' undefined on input line 74
+Package natbib Warning: Citation `harris2015quantum' undefined on input line 75
 .
 
 [2]
 
 Package natbib Warning: Citation `steinbrecher2015programmable' undefined on in
-put line 75.
+put line 76.
 
 
-Package natbib Warning: Citation `lee2014high' undefined on input line 76.
+Package natbib Warning: Citation `lee2014high' undefined on input line 77.
 
 
 Package natbib Warning: Citation `mower2014integrated' undefined on input line 
-77.
+78.
 
 
 Package natbib Warning: Citation `steinbrecher2012cross' undefined on input lin
-e 78.
+e 79.
 
 
-Package natbib Warning: Citation `mower2016methods' undefined on input line 84.
+Package natbib Warning: Citation `mower2016methods' undefined on input line 85.
 
 
 
@@ -341,18 +341,18 @@ Package bibentry Warning: You have used \nobibliography*
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
  (./vita.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 99.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 5662 strings out of 494999
- 83284 string characters out of 6181167
- 171605 words of memory out of 5000000
+ 5665 strings out of 494999
+ 83315 string characters out of 6181167
+ 172605 words of memory out of 5000000
  8871 multiletter control sequences out of 15000+600000
  7979 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -365,10 +365,10 @@ cal/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></opt/local
 -texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/local/share/texmf-texl
 ive/fonts/type1/public/amsfonts/cm/cmti10.pfb></opt/local/share/texmf-texlive/f
 onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on vita.pdf (3 pages, 118435 bytes).
+Output written on vita.pdf (3 pages, 119588 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  25 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
