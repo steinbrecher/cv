@@ -1,4 +1,4 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{23}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -37,11 +37,31 @@ Nicholas~C Harris, Darius Bunandar, Mihir Pant, Greg~R Steinbrecher, Jacob
 \newblock \emph{Nanophotonics}, 5\penalty0 (3):\penalty0 456--468,
   2016{\natexlab{b}}.
 
-\bibitem[Lahini et~al.(2015)Lahini, Steinbrecher, Bookatz, and
-  Englund]{lahini2015quantum}
+\bibitem[Harris et~al.(2017{\natexlab{a}})Harris, Shen, Steinbrecher, Prabhu,
+  Baehr-Jones, Hochberg, Soljacic, and Englund]{harris2017programmable}
+Nicholas~C Harris, Yichen Shen, Gregory~R Steinbrecher, Mihika Prabhu, Tom
+  Baehr-Jones, Michael Hochberg, Marin Soljacic, and Dirk~R Englund.
+\newblock Programmable nanophotonics for quantum simulation and machine
+  learning.
+\newblock In \emph{Integrated Photonics Research, Silicon and Nanophotonics},
+  pages ITu3A--3. Optical Society of America, 2017{\natexlab{a}}.
+
+\bibitem[Harris et~al.(2017{\natexlab{b}})Harris, Steinbrecher, Prabhu, Lahini,
+  Mower, Bunandar, Chen, Wong, Baehr-Jones, Hochberg,
+  et~al.]{harris2017quantum}
+Nicholas~C Harris, Gregory~R Steinbrecher, Mihika Prabhu, Yoav Lahini, Jacob
+  Mower, Darius Bunandar, Changchen Chen, Franco~NC Wong, Tom Baehr-Jones,
+  Michael Hochberg, et~al.
+\newblock Quantum transport simulations in a programmable nanophotonic
+  processor.
+\newblock \emph{Nature Photonics}, 11\penalty0 (7):\penalty0 447,
+  2017{\natexlab{b}}.
+
+\bibitem[Lahini et~al.(2018)Lahini, Steinbrecher, Bookatz, and
+  Englund]{lahini2018quantum}
 Yoav Lahini, Gregory~R Steinbrecher, Adam~D Bookatz, and Dirk Englund.
-\newblock Quantum logic with interacting bosons in 1d.
-\newblock \emph{arXiv preprint arXiv:1501.04349}, 2015.
+\newblock Quantum logic using correlated one-dimensional quantum walks.
+\newblock \emph{npj Quantum Information}, 4\penalty0 (1):\penalty0 2, 2018.
 
 \bibitem[Lee et~al.(2014{\natexlab{a}})Lee, Zhang, Mower, Steinbrecher, Zhou,
   Wang, Hu, Horansky, Verma, Allman, et~al.]{lee2014high}
@@ -63,14 +83,22 @@ Catherine Lee, Zheshen Zhang, Gregory~R Steinbrecher, Hongchao Zhou, Jacob
 \newblock \emph{Physical Review A}, 90\penalty0 (6):\penalty0 062331,
   2014{\natexlab{b}}.
 
-\bibitem[Lee et~al.(2016)Lee, Bunandar, Zhang, Steinbrecher, Dixon, Wong,
-  Shapiro, Hamilton, and Englund]{lee2016high}
+\bibitem[Lee et~al.(2016{\natexlab{a}})Lee, Bunandar, Zhang, Steinbrecher,
+  Dixon, Wong, Shapiro, Hamilton, and Englund]{lee2016high}
 Catherine Lee, Darius Bunandar, Zheshen Zhang, Gregory Steinbrecher, P~Ben
   Dixon, Franco~N Wong, Jeffrey~H Shapiro, Scott Hamilton, and Dirk~R Englund.
 \newblock High-rate large-alphabet quantum key distribution over deployed
   telecom fiber.
 \newblock In \emph{CLEO: QELS\_Fundamental Science}, pages FTh3C--7. Optical
-  Society of America, 2016.
+  Society of America, 2016{\natexlab{a}}.
+
+\bibitem[Lee et~al.(2016{\natexlab{b}})Lee, Bunandar, Zhang, Steinbrecher,
+  Dixon, Wong, Shapiro, Hamilton, and Englund]{lee2016high_article}
+Catherine Lee, Darius Bunandar, Zheshen Zhang, Gregory~R Steinbrecher, P~Ben
+  Dixon, Franco~NC Wong, Jeffrey~H Shapiro, Scott~A Hamilton, and Dirk Englund.
+\newblock High-rate field demonstration of large-alphabet quantum key
+  distribution.
+\newblock \emph{arXiv preprint arXiv:1611.01139}, 2016{\natexlab{b}}.
 
 \bibitem[Mower et~al.(2015{\natexlab{a}})Mower, Harris, Steinbrecher, Lahini,
   and Englund]{mower2015high}
@@ -116,6 +144,15 @@ Jelena Notaros, Jacob Mower, Mikkel Heuck, Nicholas Harris, Gregory
 \newblock In \emph{CLEO: QELS\_Fundamental Science}, pages FTh4C--4. Optical
   Society of America, 2016.
 
+\bibitem[Notaros et~al.(2017)Notaros, Mower, Heuck, Lupo, Harris, Steinbrecher,
+  Bunandar, Baehr-Jones, Hochberg, Lloyd, et~al.]{notaros2017programmable}
+Jelena Notaros, Jacob Mower, Mikkel Heuck, Cosmo Lupo, Nicholas~C Harris,
+  Gregory~R Steinbrecher, Darius Bunandar, Tom Baehr-Jones, Michael Hochberg,
+  Seth Lloyd, et~al.
+\newblock Programmable dispersion on a photonic integrated circuit for
+  classical and quantum applications.
+\newblock \emph{Optics Express}, 25\penalty0 (18):\penalty0 21275--21285, 2017.
+
 \bibitem[Steinbrecher et~al.(2015)Steinbrecher, Harris, Mower, Prabhu, and
   Englund]{steinbrecher2015programmable}
 Gregory Steinbrecher, Nicholas~C Harris, Jacob Mower, Mihika Prabhu, and Dirk~R
@@ -131,5 +168,38 @@ Gregory~R Steinbrecher.
   after loss of infrastructure.
 \newblock In \emph{MILITARY COMMUNICATIONS CONFERENCE, 2012-MILCOM 2012}, pages
   1--6. IEEE, 2012.
+
+\bibitem[Steinbrecher et~al.(2017)Steinbrecher, Rao, Harris, Mower,
+  Baehr-Jones, Hochberg, Chan, Englund, and Hamilton]{steinbrecher2017optical}
+Gregory~R Steinbrecher, Hemonth~G Rao, Nicholas~C Harris, Jacob Mower, Tom
+  Baehr-Jones, Michael Hochberg, Vincent~WS Chan, Dirk~R Englund, and Scott~A
+  Hamilton.
+\newblock Optical network switch for dynamically reconfigurable single-and
+  multi-cast topologies.
+\newblock In \emph{Lasers and Electro-Optics (CLEO), 2017 Conference on}, pages
+  1--2. IEEE, 2017.
+
+\bibitem[Steinbrecher et~al.(2018{\natexlab{a}})Steinbrecher, Chan, Englund,
+  and Hamilton]{steinbrecher2018hybrid}
+Gregory~R Steinbrecher, Vincent~WS Chan, Dirk~R Englund, and Scott~A Hamilton.
+\newblock Hybrid flow switched network with an arbitrarily reconfigurable
+  optical switch.
+\newblock In \emph{CLEO: Science and Innovations}, pages SW4C--1. Optical
+  Society of America, 2018{\natexlab{a}}.
+
+\bibitem[Steinbrecher et~al.(2018{\natexlab{b}})Steinbrecher, Olson, Englund,
+  and Carolan]{steinbrecher2018quantum}
+Gregory~R Steinbrecher, Jonathan~P Olson, Dirk Englund, and Jacques Carolan.
+\newblock Quantum optical neural networks.
+\newblock \emph{arXiv preprint arXiv:1808.10047}, 2018{\natexlab{b}}.
+
+\bibitem[Yegnanarayanan et~al.(2018)Yegnanarayanan, Maxson, Sorace-Agaskar,
+  Kharas, Steinbrecher, and Juodawlkis]{yegnanarayanan2018automated}
+Siva~S Yegnanarayanan, Ryan~T Maxson, Cheryl Sorace-Agaskar, Dave Kharas,
+  Gregory Steinbrecher, and Paul~W Juodawlkis.
+\newblock Automated initialization of reconfigurable silicon-nitride (sinx)
+  filters.
+\newblock In \emph{CLEO: Applications and Technology}, pages JTh3D--4. Optical
+  Society of America, 2018.
 
 \end{thebibliography}
