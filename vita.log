@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  28 SEP 2018 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 SEP 2018 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -264,115 +264,115 @@ LaTeX Info: Redefining \nameref on input line 9.
 \makeMPintoPDFobject=\count108
 \everyMPtoPDFconversion=\toks17
 ) (./contact.tex)
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 28.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package natbib Warning: Citation `steinbrecher2018quantum' undefined on input l
-ine 71.
+ine 72.
 
 
-Package natbib Warning: Citation `lahini2018quantum' undefined on input line 72
+Package natbib Warning: Citation `lahini2018quantum' undefined on input line 73
 .
 
 
 Package natbib Warning: Citation `notaros2017programmable' undefined on input l
-ine 73.
+ine 74.
 
 
-Package natbib Warning: Citation `harris2017quantum' undefined on input line 74
+Package natbib Warning: Citation `harris2017quantum' undefined on input line 75
 .
 
 
 Package natbib Warning: Citation `lee2016high_article' undefined on input line 
-75.
+76.
 
 
-Overfull \hbox (6.72668pt too wide) in paragraph at lines 75--76
+Overfull \hbox (6.72668pt too wide) in paragraph at lines 76--77
 \OT1/cmr/m/n/12 High-rate field demon-stra-tion of large-alphabet quan-tum key 
 dis-tri-bu-tion.  \OT1/cmr/m/it/12 arXiv preprint
  []
 
 
-Package natbib Warning: Citation `harris2016large' undefined on input line 76.
+Package natbib Warning: Citation `harris2016large' undefined on input line 77.
 
 
-Package natbib Warning: Citation `mower2015high' undefined on input line 77.
+Package natbib Warning: Citation `mower2015high' undefined on input line 78.
 
 
-Package natbib Warning: Citation `harris2015bosonic' undefined on input line 78
+Package natbib Warning: Citation `harris2015bosonic' undefined on input line 79
 .
 
 
 Package natbib Warning: Citation `lee2014entanglement' undefined on input line 
-80.
+81.
 
 [2]
 
 Package natbib Warning: Citation `steinbrecher2018hybrid' undefined on input li
-ne 86.
+ne 87.
 
 
 Package natbib Warning: Citation `yegnanarayanan2018automated' undefined on inp
-ut line 87.
+ut line 88.
 
 
 Package natbib Warning: Citation `harris2017programmable' undefined on input li
-ne 88.
+ne 89.
 
 
-Overfull \hbox (2.54623pt too wide) in paragraph at lines 88--89
+Overfull \hbox (2.54623pt too wide) in paragraph at lines 89--90
 \OT1/cmr/m/n/12 Jones, Michael Hochberg, Marin Sol-jacic, and Dirk R En-glund. 
  Pro-grammable nanopho-
  []
 
 
 Package natbib Warning: Citation `steinbrecher2017optical' undefined on input l
-ine 89.
+ine 90.
 
 
 Package natbib Warning: Citation `notaros2016tunable' undefined on input line 9
-0.
+1.
 
 
-Package natbib Warning: Citation `lee2016high' undefined on input line 91.
+Package natbib Warning: Citation `lee2016high' undefined on input line 92.
 
 
 Package natbib Warning: Citation `harris2016controlling' undefined on input lin
-e 92.
+e 93.
 
 
-Package natbib Warning: Citation `mower2015quantum' undefined on input line 93.
+Package natbib Warning: Citation `mower2015quantum' undefined on input line 94.
 
+
+
+Package natbib Warning: Citation `harris2015quantum' undefined on input line 95
+.
 
 [3]
 
-Package natbib Warning: Citation `harris2015quantum' undefined on input line 94
-.
-
-
 Package natbib Warning: Citation `steinbrecher2015programmable' undefined on in
-put line 95.
+put line 96.
 
 
-Package natbib Warning: Citation `lee2014high' undefined on input line 96.
+Package natbib Warning: Citation `lee2014high' undefined on input line 97.
 
 
 Package natbib Warning: Citation `mower2014integrated' undefined on input line 
-97.
+98.
 
 
 Package natbib Warning: Citation `steinbrecher2012cross' undefined on input lin
-e 98.
+e 99.
 
 
-Package natbib Warning: Citation `mower2016methods' undefined on input line 104
+Package natbib Warning: Citation `mower2016methods' undefined on input line 105
 .
 
 
@@ -383,13 +383,13 @@ Package bibentry Warning: You have used \nobibliography*
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
  (./vita.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 119.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 120.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
  ) 
 Here is how much of TeX's memory you used:
  5568 strings out of 492649
@@ -408,7 +408,7 @@ sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on vita.pdf (4 pages, 135668 bytes).
+Output written on vita.pdf (4 pages, 135826 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
