@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 SEP 2018 10:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 DEC 2018 18:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,132 +273,171 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `steinbrecher2018quantum' undefined on input l
-ine 72.
-
-
-Package natbib Warning: Citation `lahini2018quantum' undefined on input line 73
-.
-
-
-Package natbib Warning: Citation `notaros2017programmable' undefined on input l
-ine 74.
-
-
-Package natbib Warning: Citation `harris2017quantum' undefined on input line 75
-.
-
-
-Package natbib Warning: Citation `lee2016high_article' undefined on input line 
-76.
-
-
-Overfull \hbox (6.72668pt too wide) in paragraph at lines 76--77
+Overfull \hbox (6.72668pt too wide) in paragraph at lines 83--84
 \OT1/cmr/m/n/12 High-rate field demon-stra-tion of large-alphabet quan-tum key 
 dis-tri-bu-tion.  \OT1/cmr/m/it/12 arXiv preprint
  []
 
-
-Package natbib Warning: Citation `harris2016large' undefined on input line 77.
-
-
-Package natbib Warning: Citation `mower2015high' undefined on input line 78.
-
-
-Package natbib Warning: Citation `harris2015bosonic' undefined on input line 79
-.
-
-
-Package natbib Warning: Citation `lee2014entanglement' undefined on input line 
-81.
-
 [2]
-
-Package natbib Warning: Citation `steinbrecher2018hybrid' undefined on input li
-ne 87.
-
-
-Package natbib Warning: Citation `yegnanarayanan2018automated' undefined on inp
-ut line 88.
-
-
-Package natbib Warning: Citation `harris2017programmable' undefined on input li
-ne 89.
-
-
-Overfull \hbox (2.54623pt too wide) in paragraph at lines 89--90
+Overfull \hbox (2.54623pt too wide) in paragraph at lines 95--96
 \OT1/cmr/m/n/12 Jones, Michael Hochberg, Marin Sol-jacic, and Dirk R En-glund. 
  Pro-grammable nanopho-
  []
 
-
-Package natbib Warning: Citation `steinbrecher2017optical' undefined on input l
-ine 90.
-
-
-Package natbib Warning: Citation `notaros2016tunable' undefined on input line 9
-1.
-
-
-Package natbib Warning: Citation `lee2016high' undefined on input line 92.
-
-
-Package natbib Warning: Citation `harris2016controlling' undefined on input lin
-e 93.
-
-
-Package natbib Warning: Citation `mower2015quantum' undefined on input line 94.
-
-
-
-Package natbib Warning: Citation `harris2015quantum' undefined on input line 95
-.
-
-[3]
-
-Package natbib Warning: Citation `steinbrecher2015programmable' undefined on in
-put line 96.
-
-
-Package natbib Warning: Citation `lee2014high' undefined on input line 97.
-
-
-Package natbib Warning: Citation `mower2014integrated' undefined on input line 
-98.
-
-
-Package natbib Warning: Citation `steinbrecher2012cross' undefined on input lin
-e 99.
-
-
-Package natbib Warning: Citation `mower2016methods' undefined on input line 105
-.
-
-
-Package natbib Warning: There were undefined citations.
-
-
-Package bibentry Warning: You have used \nobibliography* 
-(bibentry)                without a following \bibliography.
-(bibentry)                You may not be able to run BibTeX.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
-[4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+[3] [4] (./vita.bblpdfTeX warning (ext4): destination with the same identifier 
+(name{cite.harris2016controlling}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 ... Lloyd, and Englund]{harris2016controlling}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.harris2015quantum}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.17   and Englund]{harris2015quantum}
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{cite.harris2015bosonic}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.25 ...rg, Lloyd, and Englund]{harris2015bosonic}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.harris2016large}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.33 ...s, Hochberg, and Englund]{harris2016large}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.harris2017programmable}) has been alr
+eady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 ...acic, and Englund]{harris2017programmable}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.harris2017quantum}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.51   et~al.]{harris2017quantum}
+                                 pdfTeX warning (ext4): destination with the sa
+me identifier (name{cite.lahini2018quantum}) has been already used, duplicate i
+gnored
+<to be read again> 
+                   \relax 
+l.61   Englund]{lahini2018quantum}
+                                  pdfTeX warning (ext4): destination with the s
+ame identifier (name{cite.lee2014high}) has been already used, duplicate ignore
+d
+<to be read again> 
+                   \relax 
+l.67 ...ansky, Verma, Allman, et~al.]{lee2014high}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.lee2014entanglement}) has been alread
+y used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.77 ...ansky, Verma, et~al.]{lee2014entanglement}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.lee2016high}) has been already used, 
+duplicate ignored
+<to be read again> 
+                   \relax 
+l.87 ...apiro, Hamilton, and Englund]{lee2016high}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.lee2016high_article}) has been alread
+y used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.96 ...amilton, and Englund]{lee2016high_article}
+                                                   [5]pdfTeX warning (ext4): de
+stination with the same identifier (name{cite.mower2015high}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.104   and Englund]{mower2015high}
+                                   pdfTeX warning (ext4): destination with the 
+same identifier (name{cite.mower2015quantum}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.113 ... Berggren, and Englund]{mower2015quantum}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.mower2014integrated}) has been alread
+y used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.122   Englund]{mower2014integrated}
+                                     pdfTeX warning (ext4): destination with th
+e same identifier (name{cite.mower2016methods}) has been already used, duplicat
+e ignored
+<to be read again> 
+                   \relax 
+l.131   Steinbrecher]{mower2016methods}
+                                       pdfTeX warning (ext4): destination with 
+the same identifier (name{cite.notaros2016tunable}) has been already used, dupl
+icate ignored
+<to be read again> 
+                   \relax 
+l.138 ...hberg, Lloyd, et~al.]{notaros2016tunable}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.notaros2017programmable}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.148 ..., Lloyd, et~al.]{notaros2017programmable}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.steinbrecher2015programmable}) has be
+en already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.157   Englund]{steinbrecher2015programmable}
+                                              pdfTeX warning (ext4): destinatio
+n with the same identifier (name{cite.steinbrecher2012cross}) has been already 
+used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.165 ...teinbrecher(2012)]{steinbrecher2012cross}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.steinbrecher2017optical}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.173 ...d, and Hamilton]{steinbrecher2017optical}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{cite.steinbrecher2018hybrid}) has been alr
+eady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.183   and Hamilton]{steinbrecher2018hybrid}
+                                             pdfTeX warning (ext4): destination
+ with the same identifier (name{cite.steinbrecher2018quantum}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.191   and Carolan]{steinbrecher2018quantum}
+                                              [6]pdfTeX warning (ext4): destina
+tion with the same identifier (name{cite.yegnanarayanan2018automated}) has been
+ already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.197 ... Juodawlkis]{yegnanarayanan2018automated}
+                                                  )
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
  (./vita.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 120.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
  ) 
 Here is how much of TeX's memory you used:
- 5568 strings out of 492649
- 82359 string characters out of 6129622
- 183561 words of memory out of 5000000
- 9408 multiletter control sequences out of 15000+600000
+ 5645 strings out of 492649
+ 84290 string characters out of 6129622
+ 185921 words of memory out of 5000000
+ 9477 multiletter control sequences out of 15000+600000
  8019 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,5n,32p,234b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,5n,32p,234b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
@@ -408,10 +447,10 @@ sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on vita.pdf (4 pages, 135826 bytes).
+Output written on vita.pdf (7 pages, 143004 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 35 named destinations out of 1000 (max. 500000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
